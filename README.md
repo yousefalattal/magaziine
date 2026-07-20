@@ -1,1 +1,2 @@
-team lead: yousef
+# MZN Tech Magazine
+team lead: yousef & fares
